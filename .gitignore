@@ -1,0 +1,15 @@
+# Git igonore file
+
+#-- emacs backup files
+*~
+\#*#
+
+
+#-- compiled sources
+*.o
+*.a
+*.pyc
+*.tex
+DUMP
+*.pdf
+NOEXPORT*
